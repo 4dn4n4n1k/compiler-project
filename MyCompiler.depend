@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1787709360 source:e:\cd\mycompiler\compiler.cpp
+	"compiler.h"
+	<bits/stdc++.h>
+
+1787704874 e:\cd\mycompiler\compiler.h
+	<iostream>
+	<vector>
+	<string>
+
+1787705781 source:e:\cd\mycompiler\main.cpp
+	<iostream>
+	"compiler.h"
+
+1787709906 source:e:\cd\mycompiler\gui.cpp
+	<windows.h>
+	<string>
+	<sstream>
+	"compiler.h"
+
